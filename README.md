@@ -84,6 +84,8 @@
 - Designed RESTful APIs and database models to manage queries, tickets, and user interactions
 - [🔗 Live Demo](https://eduportal-web.onrender.com/)
 
+---
+
 ### 🔷 SipUp — Fresh Fruit Ordering App 🍉
 
 > React 18 · Vite · TailwindCSS · Framer Motion · Node.js · Express · MongoDB · PWA
