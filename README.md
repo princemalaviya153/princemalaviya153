@@ -82,6 +82,17 @@
 - Implemented a **support ticket system**, private student-teacher chat, file uploads, and community posts
 - Designed RESTful APIs and database models to manage queries, tickets, and user interactions
 
+
+### 🔷 SipUp — Fresh Fruit Ordering App 🍉
+
+> React 18 · Vite · TailwindCSS · Framer Motion · Node.js · Express · MongoDB · PWA
+
+- Built a mobile-first restaurant ordering app for fresh juices, shakes & plates with checkout in under 30 seconds
+- No login required for customers — frictionless cart with real-time price calculation and persistent storage
+- Built a protected Admin Dashboard to manage orders through stages (New → Preparing → Ready → Completed) with sales tracking
+- Deployed as a PWA for native-app-like experience on mobile devices
+- 🔗 Live Demo · GitHub
+
 ---
 
 ## 🤝 Let's Connect
