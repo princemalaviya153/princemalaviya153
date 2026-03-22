@@ -72,7 +72,7 @@
 - Built a scalable **HR Management System** handling onboarding, attendance, leave approvals, and payroll
 - Engineered **REST APIs** with **JWT authentication** and **Role-Based Access Control (RBAC)**
 - Designed a responsive dashboard with **Light/Dark mode**, interactive tables, and modal-driven forms
-- 🔗 Live Demo · https://day-flow-xi.vercel.app/
+- [🔗 Live Demo](https://day-flow-xi.vercel.app/)
 
 ---
 
@@ -82,7 +82,7 @@
 - Built a full-stack academic portal with **role-based dashboards** for students and faculty
 - Implemented a **support ticket system**, private student-teacher chat, file uploads, and community posts
 - Designed RESTful APIs and database models to manage queries, tickets, and user interactions
-- 🔗 Live Demo · https://eduportal-web.onrender.com/
+- [🔗 Live Demo](https://eduportal-web.onrender.com/)
 
 ### 🔷 SipUp — Fresh Fruit Ordering App 🍉
 
@@ -92,7 +92,7 @@
 - No login required for customers — frictionless cart with real-time price calculation and persistent storage
 - Built a protected Admin Dashboard to manage orders through stages (New → Preparing → Ready → Completed) with sales tracking
 - Deployed as a PWA for native-app-like experience on mobile devices
-- 🔗 Live Demo · https://sip-up-one.vercel.app/
+- [🔗 Live Demo](https://sip-up-one.vercel.app/)
 
 ---
 
