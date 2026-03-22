@@ -84,19 +84,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princemalaviya153&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princemalaviya153&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=princemalaviya153&theme=tokyonight&hide_border=true" width="55%" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm actively looking for **internships and full-stack developer opportunities**. If you'd like to collaborate or have an opportunity, feel free to reach out!
